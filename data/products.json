@@ -1,0 +1,16 @@
+{
+    "1": {
+        "name": "Product A",
+        "price": 10.0,
+        "description": "Description of Product A",
+        "file_path": "/storage/emulated/0/Download/STORE/scripts/test.lua",
+        "role_id": "1152786054244470805"
+    },
+    "2": {
+        "name": "Product B",
+        "price": 20.0,
+        "description": "Description of Product B",
+        "file_path": "/storage/emulated/0/Download/STORE/scripts/test.lua",
+        "role_id": "1152786113673564163"
+    }
+}
